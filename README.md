@@ -23,4 +23,25 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Array
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
