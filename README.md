@@ -18,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -27,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0001-two-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
