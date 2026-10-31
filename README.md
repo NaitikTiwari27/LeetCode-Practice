@@ -29,10 +29,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
