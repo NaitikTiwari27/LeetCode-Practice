@@ -50,4 +50,8 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
