@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0796-rotate-string) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
