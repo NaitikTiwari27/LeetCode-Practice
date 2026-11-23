@@ -9,6 +9,7 @@
 | [0344-reverse-string](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -59,8 +60,10 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
