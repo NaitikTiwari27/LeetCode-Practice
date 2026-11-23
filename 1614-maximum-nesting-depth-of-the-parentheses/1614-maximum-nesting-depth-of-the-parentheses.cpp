@@ -11,8 +11,7 @@ public:
                 if (depth > maxDepth) {
                     maxDepth = depth;
                 }
-            }
-            else if (ch == ')') {
+            } else if (ch == ')') {
                 depth--;
             }
         }
