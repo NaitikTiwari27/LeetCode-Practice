@@ -8,6 +8,7 @@
 | [0242-valid-anagram](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/0007-reverse-integer) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NaitikTiwari27/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
